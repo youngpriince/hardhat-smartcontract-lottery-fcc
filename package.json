@@ -32,5 +32,8 @@
     "solidity-coverage": "^0.8.5",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "web3": "^4.2.2"
   }
 }
